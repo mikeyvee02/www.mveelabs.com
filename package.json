@@ -1,0 +1,19 @@
+{
+  "name": "pabzz.com",
+  "version": "1.0.0",
+  "description": "Personal Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Kropilnicki",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "latest"
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  }
+}
